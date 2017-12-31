@@ -12,7 +12,7 @@ The goal of the project is to demonstrate CoreML, the included data is fictional
 - Price: sale price
 
 ## Screenshots
-|  Start to record |  While Recording |  Playback by SoundEffect |
+|  |  |  |
 | :------------: | :------------: | :------------: |
 |  [![](http://www.novinfard.com/media/gitshots/PI11-trademytesla-1.png)](http://www.novinfard.com/media/gitshots/PI11-trademytesla-1.png) |  [![](http://www.novinfard.com/media/gitshots/PI11-trademytesla-2.png)](http://www.novinfard.com/media/gitshots/PI11-trademytesla-2.png) |  [![](http://www.novinfard.com/media/gitshots/PI11-trademytesla-3.png)](http://www.novinfard.com/media/gitshots/PI11-trademytesla-3.png)|
 
